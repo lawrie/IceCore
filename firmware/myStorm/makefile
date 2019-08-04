@@ -78,7 +78,7 @@ C_DEFS =  \
 -DUSE_HAL_DRIVER \
 -DSTM32F730xx
 
-GCCPATH = /home/awood/arm-gcc/gcc-arm-none-eabi-8-2018-q4-major/bin
+GCCPATH = /home/lawrie/arm-gcc/gcc-arm-none-eabi-8-2018-q4-major/bin
 
 # toolchain definitions
 CP	= $(GCCPATH)/arm-none-eabi-g++
